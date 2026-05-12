@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ciblcoin.github.io/reference-9qnwhf/sitemap.xml
